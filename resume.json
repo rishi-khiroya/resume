@@ -1,0 +1,279 @@
+{
+  "basics": {
+    "name": "Rishi Khiroya",
+    "label": "Full Stack Developer",
+    "email": "rishikhiroya@hotmail.com",
+    "phone": "",
+    "url": "https://vrish.dev",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "London",
+      "countryCode": "GB",
+      "region": "Essex"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "rishi-khiroya",
+        "url": "https://github.com/rishi-khiroya"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "rishi-khiroya",
+        "url": "https://linkedin.com/in/rishi-khiroya"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "coai",
+      "location": "Remote",
+      "description": "",
+      "position": "Full Stack Developer",
+      "startDate": "2024-10-01",
+      "endDate": "2025-05-22",
+      "summary": " ",
+      "highlights": [
+        "Develop and maintain the 'coai' platform and codebase, whilst collaborating closely with the CTO.",
+        "Troubleshoot and resolve technical issues promptly and share technical knowledge with the team."
+      ]
+    },
+    {
+      "name": "Data Science Institute",
+      "location": "South Kensington, London",
+      "description": "",
+      "position": "Research Engineer",
+      "startDate": "2024-04-01",
+      "endDate": "2024-09-01",
+      "highlights": [
+        "Designed and built the web platform from scratch for the 'coai' web application using React, TypeScript and AWS.",
+        "Integrated ML models into the platform: a LLM-based chatbot to answer medical questions, an advanced search engine to map medical questions to relevant papers, a model to assess the veracity of papers."
+      ]
+    },
+    {
+      "name": "Imperial College London - Department of Computing",
+      "location": "South Kensington, London",
+      "description": "",
+      "position": "Personalised Programming Tutor",
+      "startDate": "2023-09-01",
+      "endDate": "2024-04-01",
+      "highlights": [
+        "Ran weekly sessions for first year computing students to improve their programming and problem-solving skills.",
+        "Assessed and graded weekly coding exercises, providing in-depth feedback and suggesting points of improvement."
+      ]
+    },
+    {
+      "name": "Tysers",
+      "location": "Fenchurch Street, London",
+      "description": "",
+      "position": "Data Analyst",
+      "startDate": "2022-07-01",
+      "endDate": "2022-09-01",
+      "summary": "Software specialist as part of a multi-disciplinary team tasked with the transfer from incomplete and independent legacy data warehouses and systems into a unified data warehouse. Built tools to automate manual data-related tasks using Visual Basic and Power Automate."
+    },
+    {
+      "name": "Boots",
+      "location": "Chelmsford, England",
+      "description": "",
+      "position": "Retail Assistant",
+      "startDate": "2019-06-01",
+      "endDate": "2019-06-01"
+    },
+    {
+      "name": "Barclays",
+      "location": "Moorgate, London",
+      "description": "",
+      "position": "Retail Banking",
+      "startDate": "2018-08-01",
+      "endDate": "2018-08-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "eBay",
+      "location": "Richmond, London",
+      "description": "",
+      "position": "Software Developer",
+      "startDate": "2018-04-01",
+      "endDate": "2018-04-01",
+      "summary": "Shadowed a software development team, learning how to work in an agile environment using Jira. Built a Java (JUnit) test suite for an eBay back-end feature."
+    },
+    {
+      "name": "Freelancer",
+      "location": "",
+      "description": "",
+      "position": "Software Engineer, Graphic Designer & Video Editor",
+      "startDate": "2018-12-01",
+      "endDate": "2021-02-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "area": "Computing",
+      "studyType": "MEng",
+      "startDate": "2021-10-01",
+      "endDate": "2025-06-27",
+      "score": "2:1",
+      "courses": []
+    },
+    {
+      "institution": "Newham Collegiate Sixth Form",
+      "area": "Maths, Further Maths, Chemistry, Physics",
+      "studyType": "A-Level",
+      "startDate": "2019-09-01",
+      "endDate": "2021-08-30",
+      "score": "A*, A, A*, A*",
+      "courses": []
+    },
+    {
+      "institution": "Ilford County High School",
+      "area": "12 Various",
+      "studyType": "GCSEs",
+      "startDate": "2014-09-01",
+      "endDate": "2019-08-30",
+      "score": " 7 9s, 1 8, 4 7s",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Git",
+        "LaTeX",
+        "Python",
+        "Java",
+        "C",
+        "C++",
+        "Kotlin",
+        "Scala",
+        "Haskell",
+        "Visual Basic",
+        "TypeScript",
+        "JavaScript",
+        "Rust",
+        "Go"
+      ]
+    },
+    {
+      "name": "Frameworks and Libraries",
+      "level": "",
+      "keywords": [
+        "React",
+        "React Native",
+        "SvelteKit",
+        "NextJS",
+        "Svelte",
+        "NodeJS",
+        "Angular"
+      ]
+    },
+    {
+      "name": "Web Technologies",
+      "level": "",
+      "keywords": ["HTML", "CSS", "GraphQL"]
+    },
+    {
+      "name": "Databases & Tools",
+      "level": "",
+      "keywords": ["Postgres", "AWS", "Markdown"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Coding Portfolio",
+      "description": "",
+      "url": "https://vrish.dev/coding",
+      "keywords": [],
+      "roles": [],
+      "level": "",
+      "highlights": []
+    },
+    {
+      "name": "Summentia",
+      "description": "A tool to summarise lectures, provided a recording and a set of slides, making use of a SvelteKit full-stack web application and a Python/Hug server to run an API for the ML functionality.",
+      "url": "https://github.com/rishi-khiroya/Summentia",
+      "keywords": [
+        "SvelteKit",
+        "Vite",
+        "DigitalOcean",
+        "TypeScript",
+        "Python",
+        "Hug",
+        "Prisma",
+        "Vercel"
+      ],
+      "startDate": "2024-02-01",
+      "endDate": "2024-02-01",
+      "roles": [],
+      "level": ""
+    },
+    {
+      "name": "WACC",
+      "description": "An ARM11 compiler for the language WACC, as designed by the Imperial DoC and extended by us.",
+      "url": "https://github.com/rishi-khiroya/wacc",
+      "keywords": ["Scala", "Parsley", "Ruby", "GitLab CI", "ARM11 Assembly"],
+      "startDate": "2023-03-01",
+      "endDate": "2023-03-01",
+      "roles": [],
+      "level": ""
+    },
+    {
+      "name": "PintOS",
+      "description": "A simple operating system for the x86 platform, built in C.",
+      "keywords": ["C"],
+      "startDate": "2022-12-01",
+      "endDate": "2022-12-01",
+      "roles": [],
+      "level": ""
+    },
+    {
+      "name": "Distributed Algorithms",
+      "description": "Raft Consensus Algorithm (Elixir)",
+      "keywords": ["Elixir"],
+      "startDate": "2024-04-01",
+      "endDate": "2024-04-01",
+      "roles": [],
+      "level": "",
+      "highlights": []
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports & Fitness",
+      "keywords": [
+        "Football",
+        "Cycling",
+        "Running",
+        "Athletics",
+        "Badminton",
+        "Squash",
+        "Weightlifting",
+        "Gym",
+        "Swimming"
+      ]
+    },
+    {
+      "name": "Creative Hobbies",
+      "keywords": [
+        "Music Production",
+        "DJ",
+        "Digital Art",
+        "Motion Graphics",
+        "Digital Animation",
+        "Video Editing",
+        "Photography"
+      ]
+    },
+    {
+      "name": "Other Interests",
+      "keywords": ["Chess", "Gaming", "Cars"]
+    }
+  ]
+}
